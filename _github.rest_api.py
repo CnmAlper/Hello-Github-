@@ -54,7 +54,7 @@ while True:
             result = github.createRepository(name)
             print(result)
         else:
-            print('Yanlış seçim yaptınız.')
+            print('You had wrong choice.')
             
 # NOTE : API; UYGULAMA PROGRAMLAMA ARAYÜZÜ, bir yazılımın başka bir yazılımda tanımlanmış işlevlerini kullanabilmesi için oluşturulmuş bir tanım bütünüdür. API; web uygulaması, işletim sistemi, veritabanı, donanımlar yahut yazılım kütüphanesi için kullanılabilir.
 
