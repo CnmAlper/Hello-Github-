@@ -56,7 +56,7 @@ while True:
         else:
             print('You had wrong choice.')
             
-# NOTE : API; UYGULAMA PROGRAMLAMA ARAYÜZÜ, bir yazılımın başka bir yazılımda tanımlanmış işlevlerini kullanabilmesi için oluşturulmuş bir tanım bütünüdür. API; web uygulaması, işletim sistemi, veritabanı, donanımlar yahut yazılım kütüphanesi için kullanılabilir.
+# NOTE =} API; Application Programming Interface: API is a set of programming code that enables data transmission between one software product and another. It also contains the terms of this data exchange.
 
 
 
