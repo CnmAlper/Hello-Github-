@@ -1,7 +1,6 @@
+# you can use github website on this code.
 import requests
 import json
-
-
 
 class Github:
     def __init__(self):
@@ -57,7 +56,7 @@ while True:
             print('You had wrong choice.')
             
 # NOTE =} API; Application Programming Interface: API is a set of programming code that enables data transmission between one software product and another. It also contains the terms of this data exchange.
-
+# CNMALPS
 
 
 
