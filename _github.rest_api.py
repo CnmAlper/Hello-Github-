@@ -4,8 +4,8 @@ import json
 
 class Github:
     def __init__(self):
-        self.api_url = 'https://api.github.com'
-        self.token = 'your_token'
+        self.api_url = 'your_api_url'  # please enter your api url.
+        self.token = 'your_token'      # please enter your token. 
 
     def getUser(self, username):
         response = requests.get(self.api_url+'/users/'+username)
